@@ -1,0 +1,14 @@
+{
+  "name": "webapp-devops-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample web application for the Practical DevOps CAT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
